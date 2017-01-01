@@ -27,7 +27,7 @@ public class apa extends ListActivity{
 		getWindow().setBackgroundDrawableResource(R.raw.bg);
 		String[] lt = {
 						
-"Test","IP Tools: Network utilities",
+"Test566655,""IP Tools: Network utilities",
 			"Ferramentas Inteligentes",
 			"Xadrez: Mate em 1 (problemas)",
 			"Software Update mais recente",
