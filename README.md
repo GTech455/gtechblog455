@@ -1,2 +1,0 @@
-# gtechblog455
-blog
