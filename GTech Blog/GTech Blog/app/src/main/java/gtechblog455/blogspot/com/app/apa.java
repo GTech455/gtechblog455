@@ -19,7 +19,6 @@ public class apa extends ListActivity{
 	Uri a;
 	Intent dl;
 	MediaPlayer md;
-	int size;
 	AssetManager as;
 	public void onCreate(Bundle m){
 		super.onCreate(m);
