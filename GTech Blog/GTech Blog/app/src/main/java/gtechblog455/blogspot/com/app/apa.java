@@ -12,8 +12,6 @@ import android.view.*;
 import android.widget.*;
 import gtechblog455.blogspot.com.app.gtech_blog_adapter_list.*;
 import java.io.*;
-
-import android.app.Fragment;
 import android.support.v7.app.AlertDialog;
 public class apa extends ListActivity{
 	InputStream r;
